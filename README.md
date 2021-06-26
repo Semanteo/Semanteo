@@ -1,14 +1,16 @@
 ### Hi, I'm Semanteo 👋
 
-I'm a french developer beginner !
+Je suis un développeur français, il me reste encore beaucoup à apprendre et c'est pour ça que j'apprends ;)!
 
-## My projects :
-- Capture The Monkey : 
+### Mes projets :
+
+-# Capture The Monkey : 
+
 ![Logo](/logo_discord.png)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+Capture The Monkey est un Capture The Flag regroupant plusieurs challs de tous niveaux !
+
+[**_Site Web_**](https://www.capture-the-monkey.tech/)
+[**_Discord_**](https://discord.com/invite/jHZvGq4fgp)
+
+-# Genepix Bot :
