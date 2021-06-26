@@ -1,4 +1,4 @@
-### Hi, I'm Semanteo 👋
+<h3 align="center">Hi, I'm Semanteo 👋</h3>
 
 Je suis un développeur français, il me reste encore beaucoup à apprendre et c'est pour ça que j'apprends ;)!
 
