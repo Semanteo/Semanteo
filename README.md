@@ -4,7 +4,8 @@ I'm a french developer, il me reste encore beaucoup Ã  apprendre et c'est pour Ã
 
 ### Mes projets :
 
-- <img alt="Logo" src="/logo_discord.png" witdh="50px" height="50px"> # Capture The Monkey : 
+- # Capture The Monkey : 
+<img alt="Logo" src="/logo_discord.png" witdh="100px" height="100px">
 
 Capture The Monkey est un Capture The Flag regroupant plusieurs challs de tous niveaux !
 
