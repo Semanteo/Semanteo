@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm Semanteo 👋</h3>
 
-<h6 align="center">I'm a french developer, il me reste encore beaucoup à apprendre et c'est pour ça que j'apprends ;)!</h6>
+<h4 align="center">I'm a french developer, il me reste encore beaucoup à apprendre et c'est pour ça que j'apprends ;)!</h4>
 
 ### Mes projets :
 
