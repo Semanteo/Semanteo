@@ -19,7 +19,7 @@ Bot created for Genepix discord server
 
 [**_Discord_**](https://discord.gg/dw3eNPmyWm)
 
-[**_Gituhb_**](https://github.com/Semanteo/Genepix-bot)
+[**_Github_**](https://github.com/Semanteo/Genepix-bot)
 
 - # Chatbot
 
