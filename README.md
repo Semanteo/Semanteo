@@ -1,12 +1,12 @@
 <h3 align="center">Hi, I'm Semanteo 👋</h3>
 
-Je suis un développeur français, il me reste encore beaucoup à apprendre et c'est pour ça que j'apprends ;)!
+I'm a french developer, il me reste encore beaucoup à apprendre et c'est pour ça que j'apprends ;)!
 
 ### Mes projets :
 
 - # Capture The Monkey : 
 
-![Logo](/logo_discord.png)
+<img alt="Logo" src="/logo_discord.png" witdh="50px" height="50px">
 
 Capture The Monkey est un Capture The Flag regroupant plusieurs challs de tous niveaux !
 
