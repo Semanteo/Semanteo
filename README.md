@@ -21,12 +21,19 @@ Bot created for Genepix discord server
 
 [**_Github_**](https://github.com/Semanteo/Genepix-bot)
 
-- # Chatbot
+- # Chatbot :
 
 Chatbot created in javascript
 
 [**_Github_**](https://github.com/Semanteo/Chatbot)
 
+- # Dépiste Ton Stage : 
+
+Website for an EMC project of a fake association, more info in the Readme of the repo
+
+[**_Website_**](https://semanteo.github.io/)
+
+[**_Github_**](https://github.com/Semanteo/semanteo.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
