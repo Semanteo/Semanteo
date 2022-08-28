@@ -49,7 +49,7 @@ Website for an EMC project of a fake association, more info in the Readme of the
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semanteo&exclude_repo=frontend&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="semanteo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semanteo&show_icons=true&theme=radical&hide_border=true&hide=contribs,prs" alt="semanteo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semanteo&show_icons=true&theme=radical&hide_border=true" alt="semanteo" /></p>
 
 
 <h3 align="left">Profile Visits</h3>
