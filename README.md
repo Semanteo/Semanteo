@@ -3,14 +3,6 @@
 
 <h3 align="left">My projects:</h3>
 
-- # Capture The Monkey : 
-
-Capture The Monkey is a Capture The Flag grouping together several challs of all levels!
-
-[**_Website_**](https://www.capture-the-monkey.tech/)
-
-[**_Discord_**](https://discord.com/invite/jHZvGq4fgp)
-
 - # Github Timeline : 
 
 Github Timeline is a website to see in a timeline the repos of who ever you want !
